@@ -25,6 +25,9 @@
         <mxCell id="qZr0Ey1JFjmlnxxt3n6R-20" value="Metal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-N-0wt58NiBehAgQ0jAr-32">
           <mxGeometry y="230" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qZr0Ey1JFjmlnxxt3n6R-17" value="Textiles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-N-0wt58NiBehAgQ0jAr-32">
+          <mxGeometry y="110" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="-N-0wt58NiBehAgQ0jAr-37" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="-N-0wt58NiBehAgQ0jAr-31" source="-N-0wt58NiBehAgQ0jAr-32" target="-N-0wt58NiBehAgQ0jAr-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="280" as="sourcePoint" />
@@ -51,9 +54,6 @@
         </mxCell>
         <mxCell id="qZr0Ey1JFjmlnxxt3n6R-16" value="Inspiration from Elastic Search" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qZr0Ey1JFjmlnxxt3n6R-17" value="Textiles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="150" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
