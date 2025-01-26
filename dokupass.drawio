@@ -58,6 +58,12 @@
         <mxCell id="qZr0Ey1JFjmlnxxt3n6R-16" value="Inspiration from Elastic Search" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qZr0Ey1JFjmlnxxt3n6R-24" value="Product Categories: Textile, Leather, Battery, Plastic, Toys, Detergent, Customs, Others&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Subcategories: Auto derived category from picture, Red, Blue, Shredded, DPP/QR Code enabled or not&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="570" width="370" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qZr0Ey1JFjmlnxxt3n6R-25" value="If DPP enabled True -- More documents -- Enter data in blockchain during transaction" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="560" width="240" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
