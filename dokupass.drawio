@@ -52,6 +52,9 @@
         <mxCell id="qZr0Ey1JFjmlnxxt3n6R-15" value="To" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-N-0wt58NiBehAgQ0jAr-31">
           <mxGeometry x="460" y="10" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qZr0Ey1JFjmlnxxt3n6R-22" value="&amp;nbsp;Prod ID&amp;nbsp; Name&amp;nbsp; Batch No.&amp;nbsp; Contact&amp;nbsp; Quantity&amp;nbsp; Category&amp;nbsp; Buy / Sell" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="-N-0wt58NiBehAgQ0jAr-31">
+          <mxGeometry x="120" y="120" width="440" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="qZr0Ey1JFjmlnxxt3n6R-16" value="Inspiration from Elastic Search" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="110" width="120" height="60" as="geometry" />
         </mxCell>
