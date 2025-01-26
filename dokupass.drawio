@@ -64,6 +64,9 @@
         <mxCell id="qZr0Ey1JFjmlnxxt3n6R-25" value="If DPP enabled True -- More documents -- Enter data in blockchain during transaction" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="480" y="560" width="240" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="qZr0Ey1JFjmlnxxt3n6R-26" value="Amazon: Warehouse Manager&lt;div&gt;Car Company: Manufacturer&lt;/div&gt;&lt;div&gt;Suppliers: Tier 1, Tier2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="260" width="120" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
